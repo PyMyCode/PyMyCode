@@ -21,8 +21,6 @@ https://udemy-certificate.s3.amazonaws.com/pdf/UC-949c24ab-5bdb-4b7a-9b57-3e22dc
 
 ## Skillset
 
-Dillinger uses a number of open source projects to work properly:
-
 - [Python] - Python Programming Language
 - [Scikit-Learn] - OLS, Elastic Net, SVM, Decision Tree, XGboost, Neural Networks 
 - [web3.py] - Mainly for Blockchain Development
