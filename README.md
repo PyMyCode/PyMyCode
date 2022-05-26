@@ -5,7 +5,7 @@
 
 # Highlights of my Portfolio
 
-### Published Artciles
+### Published Articles
 https://towardsdatascience.com/building-a-handwritten-multi-digit-calculator-f03cf5028052
 
 ### Youtube Channel
