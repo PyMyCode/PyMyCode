@@ -1,5 +1,5 @@
-- 👋 Hey! I am Neerav and welcome to @PyMyCode
-- 👀 I am a Python Developer specialized in Machine Learning
+- 👋 Hey! I am Neerav Gala and welcome to @PyMyCode
+- 👀 Love Data Science and Machine Learning
 - 🌱 I’m currently learning Blockchain using Python
 - 💞️ I’m looking to collaborate on making the world a better place
 
