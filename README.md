@@ -5,15 +5,15 @@
 
 # Highlights of my Portfolio
 
-### Published Articles
-[Building a Handwritten Multi-Digit Calculator](https://towardsdatascience.com/building-a-handwritten-multi-digit-calculator-f03cf5028052)<br/>
-[Repository](https://github.com/PyMyCode/MultiDigitCalculator_repo)
-
 ### Master Thesis
 Comparison of Different Regression Methodologies for Rental Price Prediction in the German Residential Market\
 Keywords : hedonic model, Python, machine learning, XGBoost<br/>
 [Presentation](https://drive.google.com/file/d/1tsXn3CrYMkP5tWAhnaMeomXgF6ip3LqD/view?usp=sharing)<br/>
 [Repository](https://github.com/PyMyCode/EBS_MasterThesis_repo)
+
+### Published Articles
+[Building a Handwritten Multi-Digit Calculator](https://towardsdatascience.com/building-a-handwritten-multi-digit-calculator-f03cf5028052)<br/>
+[Repository](https://github.com/PyMyCode/MultiDigitCalculator_repo)
 
 ### Licenses & certifications
 [2020 Complete Python Bootcamp: From Zero to Hero in Python](https://udemy-certificate.s3.amazonaws.com/pdf/UC-949c24ab-5bdb-4b7a-9b57-3e22dc1dd268.pdf)
