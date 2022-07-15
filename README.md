@@ -32,3 +32,5 @@ https://www.youtube.com/channel/UC2WHaLOht4jl5wFhTQ4O3Gg
 [Scikit-Learn]: <http://angularjs.org>
 [Node.js]: <https://nodejs.org/en/>
 [web3.py]: <https://web3py.readthedocs.io/en/stable/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pymycode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
