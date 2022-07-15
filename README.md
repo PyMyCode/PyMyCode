@@ -1,6 +1,6 @@
 - 👋 Hey! I am Neerav Gala and welcome to @PyMyCode
 - 👀 Love Data Science and Machine Learning
-- 🌱 I’m currently learning Blockchain using Python
+- 🌱 I’m currently doing the [Professional Certificate in Computer Science for Artificial Intelligence](https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence) offered by Harvard University 
 - 💞️ I’m looking to collaborate on making the world a better place
 
 # Highlights of my Portfolio
