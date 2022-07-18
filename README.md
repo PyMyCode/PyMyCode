@@ -1,6 +1,8 @@
 - :wave: Hey! I am Neerav Gala and welcome to @PyMyCode
 - :heart: Data Science and Machine Learning
-- :closed_book: I’m currently doing the [Professional Certificate in Computer Science for Artificial Intelligence](https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence) course offered by Harvard University 
+- :closed_book: I’m currently 
+  - doing the [Professional Certificate in Computer Science for Artificial Intelligence](https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence) course offered by Harvard University
+  - Working on the [Institutional Investors Project](https://github.com/PyMyCode/InstitutionalInvestors_repo)
 - :raised_hands: I’m looking to collaborate on making the world a better place
 
 # Highlights of my Portfolio
