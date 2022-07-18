@@ -26,6 +26,7 @@ https://www.youtube.com/channel/UC2WHaLOht4jl5wFhTQ4O3Gg
 ## Skillset
 
 - [Python] - Python Programming Language
+- [SQLite] - Lightweight SQL database
 - [Scikit-Learn] - OLS, Elastic Net, SVM, Decision Tree, XGboost, Neural Networks 
 - [web3.py] - Mainly for Blockchain Development
 - [Node.js] - Mainly for Blockchain Development
@@ -34,5 +35,6 @@ https://www.youtube.com/channel/UC2WHaLOht4jl5wFhTQ4O3Gg
 [Scikit-Learn]: <http://angularjs.org>
 [Node.js]: <https://nodejs.org/en/>
 [web3.py]: <https://web3py.readthedocs.io/en/stable/>
+[SQLite]: <https://www.sqlite.org/index.html/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pymycode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
