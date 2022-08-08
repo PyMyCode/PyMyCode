@@ -19,6 +19,8 @@ Keywords : hedonic model, Python, machine learning, XGBoost<br/>
 
 ### Licenses & certifications
 [2020 Complete Python Bootcamp: From Zero to Hero in Python](https://udemy-certificate.s3.amazonaws.com/pdf/UC-949c24ab-5bdb-4b7a-9b57-3e22dc1dd268.pdf)
+<br/>
+[CS50’s Introduction to Computer Science](https://certificates.cs50.io/e03fbd8c-b5c0-4a0e-b15a-c259bba5f697.pdf?size=letter)
 
 ### Youtube Channel
 https://www.youtube.com/channel/UC2WHaLOht4jl5wFhTQ4O3Gg
