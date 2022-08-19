@@ -1,8 +1,7 @@
 - :wave: Hey! I am Neerav Gala and welcome to @PyMyCode
 - :heart: Data Science and Machine Learning
 - :closed_book: I’m currently 
-  - doing the [Professional Certificate in Computer Science for Artificial Intelligence](https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence) course offered by Harvard University
-  - working on the [Institutional Investors Project](https://github.com/PyMyCode/InstitutionalInvestors_repo)
+  - doing the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 - :raised_hands: I’m looking to collaborate on making the world a better place
 
 # Highlights of my Portfolio
@@ -20,7 +19,7 @@ Keywords : hedonic model, Python, machine learning, XGBoost<br/>
 ### Licenses & certifications
 [2020 Complete Python Bootcamp: From Zero to Hero in Python](https://udemy-certificate.s3.amazonaws.com/pdf/UC-949c24ab-5bdb-4b7a-9b57-3e22dc1dd268.pdf)
 <br/>
-[CS50’s Introduction to Computer Science](https://certificates.cs50.io/e03fbd8c-b5c0-4a0e-b15a-c259bba5f697.pdf?size=letter)
+[Harvard University CS50’s Introduction to Computer Science](https://certificates.cs50.io/e03fbd8c-b5c0-4a0e-b15a-c259bba5f697.pdf?size=letter)
 
 ### Youtube Channel
 https://www.youtube.com/channel/UC2WHaLOht4jl5wFhTQ4O3Gg
