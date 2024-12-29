@@ -1,7 +1,5 @@
 - :wave: Hey! I am Neerav Gala and welcome to @PyMyCode
 - :heart: Finance + Data
-- :closed_book: I’m currently 
-  - doing the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 - :raised_hands: I’m looking to collaborate on making the world a better place
 
 # Highlights of my Portfolio
