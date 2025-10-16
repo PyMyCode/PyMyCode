@@ -1,2 +1,1 @@
 - :wave: Hey! I am Neerav Gala and welcome to @PyMyCode
-- :raised_hands: I’m looking to collaborate on making the world a better place
